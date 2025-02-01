@@ -1,0 +1,8 @@
+{
+	"cookie": "", // Roblox cookie starting with _|WARNING:-DO-NOT-SHARE-THIS.
+	"placeId": 4111023553, //  Roblox PlaceId that has access to said audio's
+	"audioIds": [
+		7680356645,
+		11517681955
+	]
+}
